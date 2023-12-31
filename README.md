@@ -1,2 +1,3 @@
-# ola mundo
- primeiro repositório do curso github
+# Ola, mundo!
+ primeiro repositório do Curso Github, Gustavo Guanabara.
+ primeiro repositório criado em aula.
